@@ -2,7 +2,9 @@
 
 <img align="right" src="https://i.imgur.com/NkNam7t.png" height=160/>
 
-A simple demo made in Unreal using blueprints for learning purposes.
+A simple demo where you can throw balls to cause mayhem in an abandoned warehouse.
+
+Made in Unreal using blueprints for learning purposes.
 
 This was made as one of the projects from the Udemy course "[Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/share/101Weu3@DvrmCJo_qKi26nlbbZidlJkY1pMsT5XeGvDFjCvL_QhySfbnB2bRSGloAR5LWcX9/)"
 
@@ -41,7 +43,7 @@ git clone https://github.com/GarlandChaos/Warehouse-Wreckage.git
 
 - WASD: move character
 - Mouse: rotate character
-- Space: launch ball
+- Space: throw ball
 
 ## Screenshots
 
