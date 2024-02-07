@@ -8,8 +8,8 @@ This was made as one of the projects from the Udemy course "[Unreal Engine 5 C++
 
 It's free and open source. :clap:
 
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) | [:movie_camera: Video](#video) |
-| --------------- | -------- |  -------- |  -------- |
+| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:video_game: Game Controls](#game-controls) | [:camera: Screenshots](#screenshots) | [:movie_camera: Video](#video) |
+| --------------- | -------- |  -------- |  -------- |  -------- |
 
 ## Getting Started
 
@@ -36,6 +36,13 @@ You can get access to Warehouse Wreckage source code by using one of the followi
 ```bash
 git clone https://github.com/GarlandChaos/Warehouse-Wreckage.git
 ```
+
+## Game Controls
+
+- WASD: move character
+- Mouse: rotate character
+- Space: launch ball
+
 ## Screenshots
 
 <p align="center">
