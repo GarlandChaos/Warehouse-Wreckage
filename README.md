@@ -56,7 +56,11 @@ git clone https://github.com/GarlandChaos/Warehouse-Wreckage.git
 
 ## Video
 
-[![Watch the video](https://github.com/GarlandChaos/Warehouse-Wreckage/assets/26395471/14ee32c8-c1fd-4f18-9658-b5ec70e97734)]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/watch?v=JTAp8ouCzZA))
+<a href="https://www.youtube.com/watch?v=JTAp8ouCzZA" target="_blank">
+  <p align="center">
+    <img src="https://i.imgur.com/6z7ybn8.png"/>
+  </p>
+</a>
 
 ## Credits
 
